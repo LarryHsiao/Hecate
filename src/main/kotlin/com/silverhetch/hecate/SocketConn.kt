@@ -2,7 +2,6 @@ package com.silverhetch.hecate
 
 import com.silverhetch.clotho.connection.socket.TextBaseConn
 import com.silverhetch.clotho.connection.socket.TextBaseConnImpl
-import com.silverhetch.clotho.log.BeautyLog
 import java.net.Socket
 
 /**
